@@ -17,4 +17,4 @@ A 'word' in this context is defined as a finite sequence of strictly positive in
 4. Load the main program file: `[magic_words].`
 5. Interact with the program as per the provided documentation or instructions.
 
-Ensure that you follow the specific rules and logic as outlined in the project for interacting with the solver and generator, for more information -> `README.md`
+Ensure that you follow the specific rules and logic as outlined in the project for interacting with the solver and generator, for more information -> `Description.md`
