@@ -10,7 +10,7 @@ This project is centered around the implementation of a solver and generator for
 ## Definitions
 A 'word' in this context is defined as a finite sequence of strictly positive integers. The project involves manipulating these words, finding prefixes, factors, and other combinatorial aspects relevant to the puzzle.
 
-## Running the Program
+##   Running the Program
 1. Install SWI-Prolog from [SWI-Prolog website](https://www.swi-prolog.org/Download.html).
 2. Navigate to the project directory in the terminal.
 3. Start SWI-Prolog by typing `swipl`.
