@@ -7,7 +7,7 @@ This project is centered around the implementation of a solver and generator for
 - `MagicWords.pl`: The main Prolog file where the core logic of the solver and generator is implemented.
 - `Tests.pl`: This file contains tests for the program and imports `MagicWords.pl`.
 
-## Definitions
+## 📚 Definitions
 A 'word' in this context is defined as a finite sequence of strictly positive integers. The project involves manipulating these words, finding prefixes, factors, and other combinatorial aspects relevant to the puzzle.
 
 ## 🚀 Running the Program
