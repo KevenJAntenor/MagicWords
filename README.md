@@ -1,6 +1,6 @@
 # 🧩 Magic Words Puzzle Solver and Generator
 
-## Overview
+## 🗺️ Overview
 This project is centered around the implementation of a solver and generator for the "Magic Words" puzzle using Prolog. It explores combinatorial logic and pattern matching, key strengths of Prolog.
 
 ## Key Components
