@@ -3,7 +3,7 @@
 ## 🗺️ Overview
 This project is centered around the implementation of a solver and generator for the "Magic Words" puzzle using Prolog. It explores combinatorial logic and pattern matching, key strengths of Prolog.
 
-## Key Components
+## ⚙️ Key Components
 - `MagicWords.pl`: The main Prolog file where the core logic of the solver and generator is implemented.
 - `Tests.pl`: This file contains tests for the program and imports `MagicWords.pl`.
 
